@@ -2,7 +2,7 @@
 
 A premium, interactive personal landing page featuring a live date/time display with styled ambient effects.
 
-🔗 **Live Demo**: [https://ian0629082.github.io/L2-DIC1/](https://ian0629082.github.io/L2-DIC1/)
+🔗 **Live Demo**: [[https://ian0629082.github.io/L2-DIC1/](https://ian0629082.github.io/L2-DIC1/)](https://ian0629082.github.io/L2-live-page/)
 
 ## 🚀 Features
 
